@@ -16,6 +16,9 @@
 #Unity3D Generated File On Crash Reports
 sysinfo.txt
 
+#Stupid Temp/UnityLockfile that should be here by default
+UnityLockfile
+
 # =========================
 # Operating System Files
 # =========================
